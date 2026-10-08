@@ -1,0 +1,72 @@
+{
+  "virksomhed": {
+    "id": "4000000099",
+    "CVRNummer": 12345678,
+    "status": "NORMAL",
+    "virksomhedStartdato": "2016-11-04",
+    "virksomhedOphoersdato": null
+  },
+  "navn": [
+    {
+      "vaerdi": "Eksempel ApS",
+      "sekvens": 0,
+      "virkningFra": "2016-11-04",
+      "virkningTil": null
+    }
+  ],
+  "adresse": [
+    {
+      "AdresseringAnvendelse": "beliggenhedsadresse",
+      "CVRAdresse_vejnavn": "Eksempelvej",
+      "CVRAdresse_husnummerFra": "1",
+      "CVRAdresse_etagebetegnelse": "st",
+      "CVRAdresse_doerbetegnelse": "tv",
+      "CVRAdresse_postnummer": "2100",
+      "CVRAdresse_postdistrikt": "København Ø",
+      "CVRAdresse_adresseFritekst": null
+    }
+  ],
+  "branche": [
+    {
+      "vaerdi": "620100",
+      "vaerdiTekst": "Computerprogrammering",
+      "sekvens": 0,
+      "virkningFra": "2016-11-04",
+      "virkningTil": null
+    }
+  ],
+  "form": [
+    {
+      "vaerdi": "80",
+      "vaerdiTekst": "Anpartsselskab",
+      "virkningFra": "2016-11-04",
+      "virkningTil": null
+    }
+  ],
+  "reklame": [
+    {
+      "vaerdi": false,
+      "virkningFra": "2016-11-04",
+      "virkningTil": null
+    }
+  ],
+  "ansatte": [
+    {
+      "antal": 0,
+      "intervalFra": null,
+      "intervalTil": null,
+      "beskaeftigelsestalstype": "AARSVAERK",
+      "datoFra": "2024-01-01",
+      "datoTil": "2024-12-31",
+      "registreringsdato": "2025-01-15T00:00:00Z"
+    }
+  ],
+  "email": [
+    {
+      "vaerdi": "kontakt@example.com",
+      "virkningFra": "2016-11-04",
+      "virkningTil": null
+    }
+  ],
+  "telefon": []
+}

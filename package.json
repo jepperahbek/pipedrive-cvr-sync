@@ -1,0 +1,14 @@
+{
+  "name": "cvr-pipedrive-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-hosted single-tenant Pipedrive custom panel that syncs Danish CVR registry data onto Organization records.",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm run test --workspace @cvr-pipedrive/backend",
+    "dev:backend": "npm run dev --workspace @cvr-pipedrive/backend"
+  }
+}

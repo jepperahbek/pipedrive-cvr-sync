@@ -1,0 +1,66 @@
+{
+  "virksomhed": {
+    "id": "4000000001",
+    "CVRNummer": 10150817,
+    "status": "NORMAL",
+    "virksomhedStartdato": "1964-04-01",
+    "virksomhedOphoersdato": null
+  },
+  "navn": [
+    {
+      "vaerdi": "Erhvervsstyrelsen",
+      "sekvens": 0,
+      "virkningFra": "2012-01-01",
+      "virkningTil": null
+    }
+  ],
+  "adresse": [
+    {
+      "AdresseringAnvendelse": "beliggenhedsadresse",
+      "CVRAdresse_vejnavn": "Langelinie Allé",
+      "CVRAdresse_husnummerFra": "17",
+      "CVRAdresse_etagebetegnelse": null,
+      "CVRAdresse_doerbetegnelse": null,
+      "CVRAdresse_postnummer": "2100",
+      "CVRAdresse_postdistrikt": "København Ø",
+      "CVRAdresse_adresseFritekst": null
+    }
+  ],
+  "branche": [
+    {
+      "vaerdi": "841300",
+      "vaerdiTekst": "Administration af og bidrag til erhvervsfremme",
+      "sekvens": 0,
+      "virkningFra": "2008-01-01",
+      "virkningTil": null
+    }
+  ],
+  "form": [
+    {
+      "vaerdi": "230",
+      "vaerdiTekst": "Statslig administrativ enhed",
+      "virkningFra": "1964-04-01",
+      "virkningTil": null
+    }
+  ],
+  "reklame": [
+    {
+      "vaerdi": false,
+      "virkningFra": "1964-04-01",
+      "virkningTil": null
+    }
+  ],
+  "ansatte": [
+    {
+      "antal": 911,
+      "intervalFra": null,
+      "intervalTil": null,
+      "beskaeftigelsestalstype": "AARSVAERK",
+      "datoFra": "2024-01-01",
+      "datoTil": "2024-12-31",
+      "registreringsdato": "2025-01-15T00:00:00Z"
+    }
+  ],
+  "email": [],
+  "telefon": []
+}
